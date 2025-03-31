@@ -1,3 +1,16 @@
+gitlab.com
+cloudflare.com
+one.one.one.one
+^openvpn.net
+community.openvpn.net
+serverfault.com
+stackexchange.com
+superuser.com
+cdn.sstatic.net
+i.sstatic.net
+softportal.com
+# forum.netgate.com
+
 0035.pirat.one
 0087.pirat.one
 01.flibusta.site
@@ -11591,7 +11604,6 @@ forum.lineagetwo.ru
 forum.mikrotik.by
 forum.minegrief.net
 forum.mx-bikes.com
-forum.netgate.com
 forum.ntobrasil.com.br
 forum.nura.biz
 forum.phun.org
@@ -12974,7 +12986,6 @@ giteli.info
 giters.com
 gitexcapital.pro
 gitinifili.serialofan.online
-gitlab.com
 gitlab.io
 gitlnifili.serialofan.online
 gitr-film.site
