@@ -1,16 +1,3 @@
-gitlab.com
-cloudflare.com
-one.one.one.one
-^openvpn.net
-community.openvpn.net
-serverfault.com
-stackexchange.com
-superuser.com
-cdn.sstatic.net
-i.sstatic.net
-softportal.com
-# forum.netgate.com
-
 0035.pirat.one
 0087.pirat.one
 01.flibusta.site
@@ -9000,6 +8987,8 @@ dom-v-anape.com
 dom.buzz-serial.buzz
 dom2line.ru
 dom67-sml.ru
+domahatv.com
+domahi.com
 domain.x-y.net
 domaktera54.ru
 domandapensare.com
@@ -19609,6 +19598,7 @@ loveshop1300.yachts
 loveshop24.biz
 loveshope.biz
 loveshope1300.biz
+lovetorrent.net
 lovis.ddpills.com
 low.filmhd-1080.cyou
 low.lordserials.run
